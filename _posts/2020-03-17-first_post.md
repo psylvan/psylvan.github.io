@@ -1,9 +1,8 @@
 ---
-title: first-post
+title: My First Post
 tags: TeXt
 ---
 
-# frist post
 
 这是第一篇文章。这篇文章主要尝试markdown的使用方法
 
