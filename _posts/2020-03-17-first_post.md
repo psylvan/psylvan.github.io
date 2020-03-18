@@ -1,6 +1,6 @@
 ---
-layout:article
-title:first post
+title: Welcome
+tags: TeXt
 ---
 
 # frist post
