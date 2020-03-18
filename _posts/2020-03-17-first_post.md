@@ -1,6 +1,7 @@
 ---
 title:first post
-tag:test
+layout:article
+
 ---
 
 这是第一篇文章。这篇文章主要尝试markdown的使用方法
