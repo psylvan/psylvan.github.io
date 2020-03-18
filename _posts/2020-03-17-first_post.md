@@ -1,6 +1,6 @@
 ---
-title:first post
 layout:article
+title:first post
 ---
 
 # frist post
